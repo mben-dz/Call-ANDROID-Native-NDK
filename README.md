@@ -16,6 +16,11 @@ This project demonstrates the complete data flow: **Delphi (Pascal) → Java Bri
 - ✅ **Production-Quality Code** with proper error handling
 - ✅ **Responsive UI** for phones and tablets
 
+
+https://github.com/user-attachments/assets/a6f6b7fa-7f63-4212-8e3a-baae19baa135
+
+## my youtube video All Steps [here](https://youtu.be/qR7ErrAYkNA)
+
 ## 🎯 What Makes This Project Valuable
 
 Unlike simple "Hello World" JNI examples, this project demonstrates:
