@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.698,=F:\2050\Lang C Lessons\ObjectPascal\Android-NDK Demos\CalculatorDemo\Res\Font\CalculatorIcons</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.330,=F:\2050\Lang C Lessons\ObjectPascal\Android-NDK Demos\CalculatorDemo\Java\Output\NativeCalcLib.jar</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.379,=F:\2050\Lang C Lessons\ObjectPascal\Android-NDK Demos\CalculatorDemo\Java\Output\CalcBridge.jar</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.270,F:\2050\Project1.dproj=F:\2050\Lang C Lessons\ObjectPascal\Android-NDK Demos\CalculatorDemo\CalculatorDemo.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.355,=F:\2050\Lang C Lessons\ObjectPascal\Android-NDK Demos\CalculatorDemo\API\API.Calculator.Service.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.084,=F:\2050\Unit1.pas</Transaction>
+    <Transaction>2026-02-03 12:51:05.971,=F:\2050\Lang C Lessons\ObjectPascal\Android-NDK Demos\CalculatorDemo\Java\Output\NativeCalcLib.jar</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android64="UG8L4TIRPVMVOVDM" Android="UG8L4TIRPVMVOVDM"/>
+	</ActiveMobileDevice>
+</BorlandProject>

@@ -1,0 +1,111 @@
+inherited MainView_LgXhdpiPh: TMainView_LgXhdpiPh
+  ClientHeight = 694
+  ClientWidth = 450
+  DesignerMasterStyle = 3
+  inherited LytRoot: TLayout
+    Size.Width = 450.000000000000000000
+    Size.Height = 694.000000000000000000
+    inherited LytAppTitle: TLayout
+      Size.Width = 450.000000000000000000
+      inherited RectTitle: TRectangle
+        Size.Width = 450.000000000000000000
+      end
+      inherited LytTitle: TLayout
+        Size.Width = 450.000000000000000000
+        inherited LblTitle: TLabel
+          Size.Width = 450.000000000000000000
+        end
+      end
+    end
+    inherited LytLog: TLayout
+      Position.Y = 644.000000000000000000
+      Size.Width = 450.000000000000000000
+      inherited MemoLog: TMemo
+        Size.Width = 440.000000000000000000
+        Viewport.Width = 440.000000000000000000
+        Viewport.Height = 45.000000000000000000
+      end
+    end
+    inherited LytClient: TLayout
+      Size.Width = 450.000000000000000000
+      Size.Height = 574.000000000000000000
+      inherited LytEdtA: TLayout
+        Size.Width = 450.000000000000000000
+        inherited EdtValueA: TEdit
+          Size.Width = 440.000000000000000000
+          Size.Height = 40.000000000000000000
+        end
+      end
+      inherited LytEdtB: TLayout
+        Size.Width = 450.000000000000000000
+        inherited EdtValueB: TEdit
+          Size.Width = 440.000000000000000000
+          Size.Height = 40.000000000000000000
+        end
+      end
+      inherited LytResult: TLayout
+        Size.Width = 450.000000000000000000
+        inherited LblResult: TLabel
+          Size.Width = 450.000000000000000000
+        end
+      end
+      inherited GridPnlOperations: TGridPanelLayout
+        Size.Width = 450.000000000000000000
+        inherited RectBtnAdd: TRectangle
+          Fill.Gradient.StartPosition.X = 0.543744325637817400
+          Size.Width = 106.500000000000000000
+          inherited BtnAdd: TButton
+            Size.Width = 100.500000000000000000
+            Size.Height = 46.000000000000000000
+            TextSettings.Font.StyleExt = {00070000000000000004000000}
+          end
+        end
+        inherited RectBtnSub: TRectangle
+          Size.Width = 106.500000000000000000
+          inherited BtnSub: TButton
+            Size.Width = 100.500000000000000000
+            Size.Height = 46.000000000000000000
+            TextSettings.Font.StyleExt = {00070000000000000004000000}
+          end
+        end
+        inherited RectBtnMul: TRectangle
+          Size.Width = 106.500000000000000000
+          inherited BtnMul: TButton
+            Size.Width = 100.500000000000000000
+            Size.Height = 46.000000000000000000
+            TextSettings.Font.StyleExt = {00070000000000000004000000}
+          end
+        end
+        inherited RectBtnDiv: TRectangle
+          Size.Width = 104.500000000000000000
+          inherited BtnDiv: TButton
+            Size.Width = 98.500000000000000000
+            Size.Height = 46.000000000000000000
+            TextSettings.Font.StyleExt = {00070000000000000004000000}
+          end
+        end
+      end
+      inherited LytHistory: TLayout
+        Size.Width = 450.000000000000000000
+        Size.Height = 374.000000000000000000
+        inherited LytHistTitle: TLayout
+          Size.Width = 450.000000000000000000
+          inherited LblHistory: TLabel
+            Size.Width = 450.000000000000000000
+            TextSettings.Font.StyleExt = {00070000000000000004000000}
+            inherited TxtHistory: TText
+              Size.Width = 405.000000000000000000
+              TextSettings.Font.StyleExt = {00070000000000000004000000}
+            end
+          end
+        end
+        inherited LstBoxHistory: TListBox
+          Size.Width = 440.000000000000000000
+          Size.Height = 329.000000000000000000
+          Viewport.Width = 440.000000000000000000
+          Viewport.Height = 329.000000000000000000
+        end
+      end
+    end
+  end
+end
