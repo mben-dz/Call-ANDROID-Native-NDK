@@ -163,7 +163,7 @@ cd Native
 This generates:
 - `libs/armeabi-v7a/libc++_shared.so`
 - `libs/armeabi-v7a/libNativeCalcLIB.so`
-- `libs/armeabi-v7a/libc++_shared.so`
+- `libs/arm64-v8a/libc++_shared.so`
 - `libs/arm64-v8a/libNativeCalcLIB.so`
 
 **Important**: The library name `NativeCalcLIB` must match the `System.loadLibrary("NativeCalcLIB")` call in `CalculatorBridge.java`.
