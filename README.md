@@ -5,6 +5,7 @@
 [![Android](https://img.shields.io/badge/Android-API%2021%2B-blue.svg)](https://developer.android.com)
 
 A production-ready demonstration of calling **Android NDK native C code** from **Delphi FireMonkey** applications using **JNI (Java Native Interface)**. This project showcases a complete architecture with native calculations, SQLite persistence, and history tracking.
+<img width="540" height="360" alt="call NDK" src="https://github.com/user-attachments/assets/04060cb0-5bbc-4e31-9682-ee40bbd894d8" />
 
 ## 📋 Overview
 
